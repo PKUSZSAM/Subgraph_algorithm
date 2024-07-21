@@ -21,7 +21,12 @@ The non-Li framework structures of 104 candidates are at
 
 Examples of the subgraph representation of four structure types and prototype with graph distance of four are at
 ```
-./data/structure_type
+./data/structure_type/
+```
+
+13 candidate structures of the inorganic solid-state electrolyte (ISSE) with Li coordinates are at
+```
+./data/ISSE/
 ```
 
 ## Method quick start
